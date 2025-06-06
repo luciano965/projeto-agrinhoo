@@ -1,34 +1,35 @@
 body{
     background-color: #3b804c;
-    color: rgb(10, 10, 10);
+    color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 20px;
-    padding: 0 24px;
+    font-size: 40px;
+    padding: 0 44px;
 }
 
 
     .imagem1{
-        width: 500px;
-        
+        width: 700px;
 
     }
    
 .linha1{
-    color: #0c0c0c;
-    font-size: 10px;
+    color: #ffffff;
+    font-size: 20px;
 }
+
   .imagem2{
-    width: 400px;
+    width: 600px;
   }
   
+
 .linha2{
-    color: #000;
+    color: #ffffff;
     font-size: 10px;
 }
 
 
 .texto_um{
-    color: #0c0c0c;
+    color: #ffffff;
     font-size: 24px;
 }
 
@@ -38,6 +39,6 @@ body{
     text-align: center;
     display: grid;
     font-size: 18px;
-    color: rgb(5, 5, 5);
+    color: rgb(255, 255, 255);
 }
 
